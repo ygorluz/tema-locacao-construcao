@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: https://msia-tema-aluguel-betoneira.vercel.app/sitemap-index.xml

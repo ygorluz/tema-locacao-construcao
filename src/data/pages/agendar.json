@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Peça seu orçamento — Loca Betoneira SP",
+    "description": "Solicite orçamento de aluguel de betoneira em São Paulo. Diga o equipamento, o período e o endereço da obra — entrega e retirada inclusas."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Peça seu orçamento",
+      "title": "Orçamento de aluguel em três etapas simples.",
+      "lead": "Informe o equipamento e seus dados — a gente agenda a entrega na sua obra.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Orçamento", "href": "/agendar" } ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três etapas do pedido à obra.",
+      "steps": [
+        { "n": "01", "title": "Orçamento", "text": "Diga o equipamento, o período e o endereço da obra." },
+        { "n": "02", "title": "Entrega", "text": "Levamos a betoneira revisada no dia combinado." },
+        { "n": "03", "title": "Retirada", "text": "Buscamos o equipamento ao fim da locação." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Solicite agora",
+      "title": "Preencha e receba seu orçamento.",
+      "services": ["Betoneira 400 litros", "Betoneira 150 litros", "Betoneira 120 litros", "Betoneira elétrica", "Betoneira a gasolina", "Betoneira para obra", "Betoneira para reforma", "Vibrador de concreto", "Placa vibratória"]
+    }}
+  ]
+}

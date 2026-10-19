@@ -1,0 +1,17 @@
+{
+  "name": "Construção",
+  "colors": {
+    "bg": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "soft": "#F5F3F0",
+    "ink": "#1C1A17",
+    "ink-muted": "#57534E",
+    "primary": "#1C1A17",
+    "secondary": "#44403C",
+    "accent": "#C2410C",
+    "accent-ink": "#FFFFFF",
+    "accent-strong": "#9A3412",
+    "border": "#E7E2DB"
+  },
+  "fonts": { "display": "'Poppins', sans-serif", "body": "'Poppins', sans-serif" }
+}

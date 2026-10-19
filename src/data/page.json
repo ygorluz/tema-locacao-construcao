@@ -1,0 +1,276 @@
+{
+  "blocks": [
+    {
+      "type": "hero",
+      "props": {
+        "eyebrow": "Aluguel de betoneira em São Paulo",
+        "title": "Betoneira na sua obra, entregue e retirada no local.",
+        "lead": "Betoneiras de 120, 150 e 400 litros, elétricas ou a gasolina, para reforma e construção em São Paulo e região. Diária, semana ou mês, com orçamento na hora.",
+        "cta": {
+          "label": "Pedir orçamento",
+          "href": "#contato"
+        },
+        "rating": {
+          "score": "5,0",
+          "count": "230+ avaliações"
+        },
+        "doctor": {
+          "name": "Equipe própria",
+          "role": "Entrega e retirada na obra",
+          "photo": "/images/doctor.jpg"
+        },
+        "contact": {
+          "phone": "(11) 0000-0000",
+          "hours": "Seg a Sex, 7h às 18h • Sáb até 12h"
+        }
+      }
+    },
+    {
+      "type": "sobre",
+      "props": {
+        "image": "/images/about.jpg",
+        "badge": "+15 anos locando equipamentos em São Paulo",
+        "eyebrow": "Sobre a locadora",
+        "title": "Equipamento revisado, entregue na hora certa.",
+        "lead": "Cuidamos da logística inteira: levamos a betoneira limpa e revisada até a obra, orientamos o uso e retiramos no fim do período. Sem dor de cabeça.",
+        "benefits": [
+          "Frota revisada de betoneiras e equipamentos",
+          "Entrega e retirada em São Paulo e região",
+          "Locação por diária, semana ou mês",
+          "Orientação de uso e segurança na entrega"
+        ],
+        "cta": {
+          "label": "Conheça a locadora",
+          "href": "/sobre"
+        }
+      }
+    },
+    {
+      "type": "servicos",
+      "props": {
+        "eyebrow": "Nossos equipamentos",
+        "title": "A betoneira certa para cada obra.",
+        "items": [
+          {
+            "title": "Betoneira 400 litros",
+            "text": "Para laje, contrapiso e obras de maior volume."
+          },
+          {
+            "title": "Betoneira 150 litros",
+            "text": "Equilíbrio ideal para reformas e obras médias."
+          },
+          {
+            "title": "Betoneira 120 litros",
+            "text": "Compacta, para reparos e serviços residenciais."
+          },
+          {
+            "title": "Betoneira elétrica ou a gasolina",
+            "text": "Com ou sem energia no local, você escolhe."
+          }
+        ],
+        "cta": {
+          "label": "Ver todos os equipamentos",
+          "href": "/servicos"
+        }
+      }
+    },
+    {
+      "type": "numeros",
+      "props": {
+        "stats": [
+          {
+            "value": "15+",
+            "label": "Anos de locação"
+          },
+          {
+            "value": "4mil+",
+            "label": "Obras atendidas"
+          },
+          {
+            "value": "24h",
+            "label": "Prazo médio de entrega"
+          },
+          {
+            "value": "98%",
+            "label": "Clientes satisfeitos"
+          }
+        ]
+      }
+    },
+    {
+      "type": "porqueEscolher",
+      "props": {
+        "eyebrow": "Por que alugar com a gente",
+        "title": "Betoneira revisada não para a sua obra.",
+        "image": "/images/why.jpg",
+        "features": [
+          {
+            "title": "Frota revisada",
+            "text": "Equipamento conferido antes de cada locação."
+          },
+          {
+            "title": "Entrega no local",
+            "text": "Levamos e buscamos a betoneira na obra."
+          },
+          {
+            "title": "Preço transparente",
+            "text": "Orçamento fechado, sem taxa escondida."
+          },
+          {
+            "title": "Atendimento rápido",
+            "text": "Resposta ágil pelo WhatsApp e telefone."
+          },
+          {
+            "title": "Equipamento de apoio",
+            "text": "Vibrador de concreto e placa vibratória."
+          },
+          {
+            "title": "Suporte na operação",
+            "text": "Orientação de uso e segurança na entrega."
+          }
+        ]
+      }
+    },
+    {
+      "type": "comoFunciona",
+      "props": {
+        "eyebrow": "Como funciona",
+        "title": "Três passos do pedido à obra.",
+        "steps": [
+          {
+            "n": "01",
+            "title": "Orçamento",
+            "text": "Diga o equipamento, o período e o endereço da obra."
+          },
+          {
+            "n": "02",
+            "title": "Entrega",
+            "text": "Levamos a betoneira revisada no dia combinado."
+          },
+          {
+            "n": "03",
+            "title": "Retirada",
+            "text": "Buscamos o equipamento ao fim da locação."
+          }
+        ]
+      }
+    },
+    {
+      "type": "equipe",
+      "props": {
+        "eyebrow": "Nossa equipe",
+        "title": "Gente que entende de obra e de equipamento.",
+        "members": [
+          {
+            "name": "Atendimento",
+            "role": "Orçamento e reserva",
+            "photo": "/images/team-1.jpg"
+          },
+          {
+            "name": "Logística",
+            "role": "Entrega e retirada",
+            "photo": "/images/team-2.jpg"
+          },
+          {
+            "name": "Manutenção",
+            "role": "Revisão da frota",
+            "photo": "/images/team-3.jpg"
+          },
+          {
+            "name": "Suporte técnico",
+            "role": "Orientação de uso",
+            "photo": "/images/team-4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "depoimentos",
+      "props": {
+        "eyebrow": "Depoimentos",
+        "title": "O que nossos clientes dizem.",
+        "rating": {
+          "score": "4,9",
+          "label": "média de avaliações"
+        },
+        "items": [
+          {
+            "quote": "Entregaram a betoneira de 400 litros no horário e a concretagem da laje fluiu.",
+            "name": "Roberto L.",
+            "role": "Santo André"
+          },
+          {
+            "quote": "Aluguei uma elétrica de 150 para a reforma do apê, perfeita e silenciosa.",
+            "name": "Mariana D.",
+            "role": "Barra Funda"
+          },
+          {
+            "quote": "Precisei estender o aluguel e resolveram na hora, sem complicação.",
+            "name": "Thiago L.",
+            "role": "Guarulhos"
+          }
+        ]
+      }
+    },
+    {
+      "type": "antesDepois",
+      "props": {
+        "eyebrow": "Resultados",
+        "title": "Da mistura à obra pronta.",
+        "items": [
+          {
+            "label": "Contrapiso concretado",
+            "before": "/images/before-1.jpg",
+            "after": "/images/after-1.jpg"
+          },
+          {
+            "label": "Laje pronta",
+            "before": "/images/before-2.jpg",
+            "after": "/images/after-2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "novidades",
+      "props": {
+        "eyebrow": "Novidades",
+        "title": "Dicas sobre betoneira e obra.",
+        "items": [
+          {
+            "title": "Qual betoneira escolher: 120, 150 ou 400 litros",
+            "excerpt": "Como acertar a capacidade conforme a sua obra.",
+            "image": "/images/post-1.jpg",
+            "href": "#"
+          },
+          {
+            "title": "Betoneira elétrica ou a gasolina?",
+            "excerpt": "Quando vale cada tipo de motor na obra.",
+            "image": "/images/post-2.jpg",
+            "href": "#"
+          },
+          {
+            "title": "Como usar a betoneira com segurança",
+            "excerpt": "Carga certa, ordem dos materiais e limpeza.",
+            "image": "/images/post-3.jpg",
+            "href": "#"
+          }
+        ]
+      }
+    },
+    {
+      "type": "ctaContato",
+      "props": {
+        "eyebrow": "Fale com a gente",
+        "title": "Reserve sua betoneira sem compromisso.",
+        "services": [
+          "Betoneira 400 litros",
+          "Betoneira 150 litros",
+          "Betoneira 120 litros",
+          "Betoneira elétrica",
+          "Betoneira a gasolina"
+        ]
+      }
+    }
+  ]
+}

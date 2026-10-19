@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "santo-amaro",
+    "nome": "Santo Amaro",
+    "prep": "no",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": ["Brooklin", "Campo Belo", "Socorro"],
+    "referenciaLocal": "Atendemos todo o Santo Amaro e a Zona Sul de São Paulo, das obras residenciais aos canteiros comerciais ao longo da Av. Santo Amaro, com entrega e retirada da betoneira no local.",
+    "faq": [
+      {
+        "q": "Vocês entregam a betoneira no Santo Amaro?",
+        "a": "Sim. Fazemos entrega e retirada do equipamento direto na obra, no Santo Amaro e na Zona Sul, com horário combinado."
+      },
+      {
+        "q": "Dá para alugar só por um fim de semana?",
+        "a": "Dá. Trabalhamos com diária, fim de semana, semana e mês, conforme o tempo de uso da sua obra."
+      }
+    ]
+  },
+  {
+    "slug": "barra-funda",
+    "nome": "Barra Funda",
+    "prep": "na",
+    "regiao": "Zona Oeste de São Paulo",
+    "bairrosVizinhos": ["Água Branca", "Perdizes", "Lapa"],
+    "referenciaLocal": "Levamos betoneiras de todos os tamanhos à Barra Funda e à Zona Oeste, atendendo reformas de apartamento, prédios e obras comerciais da região.",
+    "faq": [
+      {
+        "q": "Atendem reforma de apartamento na Barra Funda?",
+        "a": "Atendemos. Para apartamento indicamos as betoneiras compactas de 120 ou 150 litros, elétricas, que circulam bem em prédio."
+      },
+      {
+        "q": "Tem betoneira elétrica para usar em condomínio?",
+        "a": "Tem. A versão elétrica é silenciosa e sem fumaça, ideal para uso em condomínio e área residencial."
+      }
+    ]
+  },
+  {
+    "slug": "santo-andre",
+    "nome": "Santo André",
+    "prep": "em",
+    "regiao": "Grande ABC",
+    "bairrosVizinhos": ["São Bernardo do Campo", "Mauá", "Ribeirão Pires"],
+    "referenciaLocal": "Atendemos Santo André e todo o Grande ABC, com forte demanda de obras residenciais e industriais, entregando a betoneira certa para cada etapa.",
+    "faq": [
+      {
+        "q": "Vocês alugam betoneira de 400 litros em Santo André?",
+        "a": "Sim. A de 400 litros é indicada para laje e contrapiso, e fazemos a entrega no canteiro em Santo André."
+      },
+      {
+        "q": "Atendem obra sem energia elétrica ligada?",
+        "a": "Atendemos. Para terreno sem energia indicamos a betoneira a gasolina, que funciona com total autonomia."
+      }
+    ]
+  },
+  {
+    "slug": "sao-bernardo-do-campo",
+    "nome": "São Bernardo do Campo",
+    "prep": "em",
+    "regiao": "Grande ABC",
+    "bairrosVizinhos": ["Santo André", "Diadema", "São Caetano do Sul"],
+    "referenciaLocal": "Entregamos betoneiras em São Bernardo do Campo para obras de fundação, laje e reforma, com locação por diária, semana ou mês.",
+    "faq": [
+      {
+        "q": "Qual betoneira escolher para concretar uma laje em São Bernardo?",
+        "a": "Para laje, a de 400 litros mantém o ritmo da concretagem. Vale alugar junto o vibrador de concreto para adensar a massa."
+      },
+      {
+        "q": "Como funciona a entrega em São Bernardo do Campo?",
+        "a": "Combinamos dia e horário e levamos o equipamento revisado até a obra, com retirada ao fim do período de aluguel."
+      }
+    ]
+  },
+  {
+    "slug": "sao-caetano-do-sul",
+    "nome": "São Caetano do Sul",
+    "prep": "em",
+    "regiao": "Grande ABC",
+    "bairrosVizinhos": ["Santo André", "São Bernardo do Campo", "São Paulo"],
+    "referenciaLocal": "Atendemos São Caetano do Sul com betoneiras para reforma e construção, da pequena obra residencial ao canteiro comercial.",
+    "faq": [
+      {
+        "q": "Tem betoneira pequena para reforma em São Caetano?",
+        "a": "Tem. As de 120 e 150 litros são ideais para reforma e cabem bem em obra residencial."
+      },
+      {
+        "q": "Posso alugar betoneira e placa vibratória juntas?",
+        "a": "Pode. Reunir betoneira e placa vibratória no mesmo pedido facilita a logística e melhora o orçamento."
+      }
+    ]
+  },
+  {
+    "slug": "guarulhos",
+    "nome": "Guarulhos",
+    "prep": "em",
+    "regiao": "Grande São Paulo",
+    "bairrosVizinhos": ["São Paulo", "Arujá", "Mairiporã"],
+    "referenciaLocal": "Levamos betoneiras a Guarulhos e região, atendendo desde reformas até obras maiores, com entrega e retirada no endereço da obra.",
+    "faq": [
+      {
+        "q": "Vocês atendem toda a Guarulhos?",
+        "a": "Atendemos os bairros de Guarulhos com entrega e retirada da betoneira na obra, em horário combinado."
+      },
+      {
+        "q": "Qual o período mínimo de aluguel?",
+        "a": "O período mínimo é a diária, mas para obra contínua a locação semanal ou mensal sai mais em conta."
+      }
+    ]
+  }
+]

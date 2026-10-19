@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "Equipamentos para alugar — Loca Betoneira SP",
+    "description": "Betoneiras de 120, 150 e 400 litros, elétricas ou a gasolina, vibrador de concreto e placa vibratória. Conheça todos os equipamentos da Loca Betoneira SP em São Paulo."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossos equipamentos",
+      "title": "A betoneira certa para cada obra.",
+      "lead": "Da pequena reforma à concretagem de laje — escolha a capacidade e o tipo de motor ideais para o seu serviço.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Equipamentos", "href": "/servicos" } ]
+    }},
+    { "type": "servicos", "props": {
+      "fromData": true,
+      "cta": { "label": "Pedir orçamento", "href": "/agendar" }
+    }},
+    { "type": "porqueEscolher", "props": {
+      "eyebrow": "Por que alugar com a gente",
+      "title": "Equipamento revisado, entrega no local.",
+      "image": "/images/why.jpg",
+      "features": [
+        { "title": "Frota revisada", "text": "Cada betoneira é conferida antes de sair." },
+        { "title": "Capacidade certa", "text": "120, 150 ou 400 litros conforme a obra." },
+        { "title": "Elétrica ou a gasolina", "text": "Com ou sem energia no local." },
+        { "title": "Entrega e retirada", "text": "Levamos e buscamos na sua obra." },
+        { "title": "Equipamento de apoio", "text": "Vibrador de concreto e placa vibratória." },
+        { "title": "Locação flexível", "text": "Diária, semana ou mês, você escolhe." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Peça seu orçamento sem compromisso.",
+      "services": ["Betoneira 400 litros", "Betoneira 150 litros", "Betoneira 120 litros", "Betoneira elétrica", "Betoneira a gasolina", "Betoneira para obra", "Betoneira para reforma", "Vibrador de concreto", "Placa vibratória"]
+    }}
+  ]
+}

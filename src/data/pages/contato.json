@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Contato — Loca Betoneira SP",
+    "description": "Fale com a Loca Betoneira SP: WhatsApp, e-mail e atendimento em São Paulo. Tire dúvidas ou reserve sua betoneira para reforma ou construção."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Estamos prontos para atender a sua obra.",
+      "lead": "Mande mensagem, ligue ou chame no WhatsApp — orçamento rápido e sem compromisso.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Contato", "href": "/contato" } ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Envie uma mensagem",
+      "title": "Conte qual betoneira você precisa.",
+      "services": ["Betoneira 400 litros", "Betoneira 150 litros", "Betoneira 120 litros", "Betoneira elétrica", "Betoneira a gasolina", "Betoneira para obra", "Betoneira para reforma", "Vibrador de concreto", "Placa vibratória"]
+    }}
+  ]
+}

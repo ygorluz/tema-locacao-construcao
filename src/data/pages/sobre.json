@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Sobre a Loca Betoneira SP",
+    "description": "Mais de 15 anos alugando betoneiras e equipamentos para construção em São Paulo e no Grande ABC. Conheça a história e os valores da Loca Betoneira SP."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Sobre a empresa",
+      "title": "Equipamento para obra com quem entende de construção.",
+      "lead": "Mais de uma década atendendo obras residenciais, comerciais e industriais em São Paulo e região.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Sobre", "href": "/sobre" } ]
+    }},
+    { "type": "sobre", "props": {
+      "image": "/images/about.jpg",
+      "badge": "15+ anos de experiência",
+      "title": "Equipamento para obra com quem entende de construção.",
+      "lead": "Atendemos desde a reforma do apartamento até o canteiro de grande porte, sempre com entrega na obra e equipamento revisado.",
+      "benefits": [
+        "Frota própria revisada de betoneiras",
+        "120, 150 e 400 litros, elétrica ou a gasolina",
+        "Vibrador de concreto e placa vibratória",
+        "Entrega e retirada em São Paulo e região"
+      ],
+      "cta": { "label": "Pedir orçamento", "href": "#contato" }
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "15+", "label": "Anos no mercado" },
+        { "value": "4mil+", "label": "Obras atendidas" },
+        { "value": "30+", "label": "Equipamentos na frota" },
+        { "value": "98%", "label": "Clientes satisfeitos" }
+      ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três etapas do pedido à obra.",
+      "steps": [
+        { "n": "01", "title": "Orçamento", "text": "Diga o equipamento, o período e o endereço da obra." },
+        { "n": "02", "title": "Entrega", "text": "Levamos a betoneira revisada no dia combinado." },
+        { "n": "03", "title": "Retirada", "text": "Buscamos o equipamento ao fim da locação." }
+      ]
+    }},
+    { "type": "depoimentos", "props": {
+      "eyebrow": "Depoimentos",
+      "title": "O que nossos clientes dizem.",
+      "rating": { "score": "4,9", "label": "média de satisfação" },
+      "items": [
+        { "quote": "Betoneira de 400 entregue no horário, concretagem da laje fluiu.", "name": "Roberto L.", "role": "Cliente — Santo André" },
+        { "quote": "Elétrica de 150 para a reforma do apê, silenciosa e perfeita.", "name": "Mariana D.", "role": "Cliente — Barra Funda" },
+        { "quote": "Estendi o aluguel sem burocracia. Atendimento muito bom.", "name": "Thomas L.", "role": "Cliente — São Bernardo do Campo" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Peça seu orçamento sem compromisso.",
+      "services": ["Betoneira 400 litros", "Betoneira 150 litros", "Betoneira 120 litros", "Betoneira elétrica", "Betoneira a gasolina", "Betoneira para obra", "Betoneira para reforma", "Vibrador de concreto", "Placa vibratória"]
+    }}
+  ]
+}

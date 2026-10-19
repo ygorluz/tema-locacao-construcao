@@ -1,0 +1,26 @@
+{
+  "name": "Loca Betoneira SP",
+  "segmento": "Aluguel de betoneira",
+  "schemaType": "LocalBusiness",
+  "postUrlPrefix": "",
+  "description": "Aluguel de betoneira em São Paulo: betoneiras de 120, 150 e 400 litros, elétricas ou a gasolina, com entrega e retirada na obra. Diária, semanal ou mensal. Peça seu orçamento.",
+  "ctaLabel": "Pedir orçamento",
+  "phone": "(11) 0000-0000",
+  "whatsapp": "5511000000000",
+  "email": "contato@locabetoneirasp.com.br",
+  "address": "Zona Sul — São Paulo, SP",
+  "uf": "SP",
+  "hours": "Seg a Sex, 7h às 18h • Sáb, 8h às 12h",
+  "social": { "instagram": "#", "facebook": "#", "youtube": "#" },
+  "nap": {
+    "streetAddress": "Av. Exemplo, 0000 — galpão 00",
+    "addressLocality": "São Paulo",
+    "addressRegion": "SP",
+    "postalCode": "00000-000",
+    "country": "BR",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "priceRange": "$$",
+    "mapEmbed": "https://www.google.com/maps?q=S%C3%A3o+Paulo+SP&output=embed"
+  }
+}

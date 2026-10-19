@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Nossa equipe — Loca Betoneira SP",
+    "description": "Equipe de atendimento, logística e manutenção que mantém a sua betoneira funcionando do começo ao fim da obra. Conheça o time da Loca Betoneira SP."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossa equipe",
+      "title": "Gente que mantém a sua obra rodando.",
+      "lead": "Atendimento, logística e manutenção trabalhando juntos para entregar o equipamento certo na hora certa.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Equipe", "href": "/equipe" } ]
+    }},
+    { "type": "equipe", "props": {
+      "members": [
+        { "name": "Carlos Mendes", "role": "Atendimento e orçamento", "photo": "/images/team-1.jpg" },
+        { "name": "Rafael Souza", "role": "Logística e entrega", "photo": "/images/team-2.jpg" },
+        { "name": "Lucas Ferreira", "role": "Manutenção da frota", "photo": "/images/team-3.jpg" },
+        { "name": "André Lima", "role": "Suporte técnico", "photo": "/images/team-4.jpg" }
+      ]
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "15+", "label": "Anos no mercado" },
+        { "value": "4mil+", "label": "Obras atendidas" },
+        { "value": "30+", "label": "Equipamentos na frota" },
+        { "value": "98%", "label": "Clientes satisfeitos" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Peça seu orçamento sem compromisso.",
+      "services": ["Betoneira 400 litros", "Betoneira 150 litros", "Betoneira 120 litros", "Betoneira elétrica", "Betoneira a gasolina", "Betoneira para obra", "Betoneira para reforma", "Vibrador de concreto", "Placa vibratória"]
+    }}
+  ]
+}
